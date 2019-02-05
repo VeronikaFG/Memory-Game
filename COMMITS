@@ -1,0 +1,59 @@
+[33mcommit ac8b0e59c1ae01a3334e852819a342c60a14bcc4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 23:01:35 2018 +0200
+
+    add restart button and add content to modal pop-up
+
+[33mcommit 2445771018a9ace969af62421cea504f1cee9a2b[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 22:36:13 2018 +0200
+
+    Responsive optimizations
+
+[33mcommit b665711abc6330f5be0e7af8ea109f7f948689d1[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 22:32:46 2018 +0200
+
+    Update animations
+
+[33mcommit 7b4d5f15f700b4931117e669cc0a769f54d1d1d0[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 22:16:21 2018 +0200
+
+    Add animations
+
+[33mcommit 468d3fabcc245776a7081638214837ba3c26ff4c[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 22:08:20 2018 +0200
+
+    Add style to Matchine game
+
+[33mcommit d9c4d4d6e605b2ef0ec270f4eed79035be29a09a[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 20:49:40 2018 +0200
+
+    Add a winner message (Modal) that shows all the moves, the rating and the time for win the game
+
+[33mcommit 3699fb73e8e0895fcdf11fad5be913dd1b6402a1[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 20:27:23 2018 +0200
+
+    Add a counter for calculate all the moves
+
+[33mcommit 06286dd6b242b7217996a0ed735a36e69e39a4af[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 20:12:43 2018 +0200
+
+    Add a timer function
+
+[33mcommit ee4e8a3fe4a9f7a25e175c349f29501480f05fa6[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 18:43:13 2018 +0200
+
+    Add a subtract star function
+
+[33mcommit d04412bb7f5686097230b4692d27b691af09b47d[m
+Author: Veronica Giannotti <verogiann@libero.it>
+Date:   Wed Apr 4 13:08:51 2018 +0200
+
+    Add content to javascrip file
